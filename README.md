@@ -10,9 +10,17 @@
         <title>AMP School site home - SchoolAMP</title>
         </head>
      <body>
-     
     
-     <p align="center">Buy Now</p>
+        
+</list>  
+</span>
+<a href="https://secure.avangate.com/order/checkout.php?PRODS=4664963&QTY=1&REF=1159577&CART=1&CARD=2&CLEAN_CART=ALL&DESIGN_TYPE=2&SHORT_FORM=1&INFO4664963=SchoolAMP&PRICES4664963[USD]=49.00&PHASH=84798f73e1be62a832cb38634a5ffed6&_ga=2.203785174.798745394.1582565382-amp-3uSIq21pBMErhIMmVUc5nw"  >BUY NOW</a>   
+<
+
+</div>
+</body>
+
+</html>
 
      </body>
      </html>
@@ -22,7 +30,7 @@
    </head>
 <body>
 
-<font face="Tahoma" size=5 color="blue">School Dance</font>
+<font face="Tahoma" size=5 color="BLACK">School Dance</font>
 
 </body>
    
@@ -110,11 +118,11 @@
     
        <tr> 
             <td>
-                <img src="https://cdn.trend.az/2014/02/25/balet_250214.jpg" width="810"">
+                <img src="https://cdn.trend.az/2014/02/25/balet_250214.jpg" width="810">
             </td>
     
             <td> 
-                <img src="https://s3-eu-west-1.amazonaws.com/acitymadebypeople/images/Articles/summer_dance_forever_photo_sasha_box_10.jpg?mtime=20170127161540" width="822"">
+                <img src="https://s3-eu-west-1.amazonaws.com/acitymadebypeople/images/Articles/summer_dance_forever_photo_sasha_box_10.jpg?mtime=20170127161540" width="822">
             </td> 
        </tr>  
     
@@ -122,3 +130,16 @@
     
     </body>
     </html>
+
+
+
+
+    <html>
+<head>
+<title>Фоновое изображение</title>
+</head>
+<body background="https://pbs.twimg.com/profile_banners/549931110/1404755802">
+
+
+</body>
+</html>
